@@ -4,10 +4,13 @@ title: Student Blog
 ---
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+## Welcome to the home page of Remy and Torins Website 
+Here we will show you our 
+    · Process,
+    · Code Snippets And What We Learned,
+    · And Even Some Examples Of Code And What They Do!
 
-## Overview of Hacks, Study and Tangibles
+## Planning and Tools.
 Blogging in GitHub pages is a way to learn and code at the same time. 
 
 - Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!

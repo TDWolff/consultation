@@ -8,7 +8,9 @@ title: Student Blog
 Here we will show you our 
     
 · Process,
+
 · Code Snippets And What We Learned,
+
 · And Even Some Examples Of Code And What They Do!
 
 ## Planning and Tools.

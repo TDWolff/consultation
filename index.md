@@ -7,9 +7,9 @@ title: Student Blog
 ## Welcome to the home page of Remy and Torins Website 
 Here we will show you our 
     
-    · Process,
-    · Code Snippets And What We Learned,
-    · And Even Some Examples Of Code And What They Do!
+· Process,
+· Code Snippets And What We Learned,
+· And Even Some Examples Of Code And What They Do!
 
 ## Planning and Tools.
 Blogging in GitHub pages is a way to learn and code at the same time. 

@@ -1,6 +1,6 @@
 # Configuration, override port with usage: make PORT=4300
 PORT ?= 8083
-REPO_NAME ?= student
+REPO_NAME ?= consultation
 LOG_FILE = /tmp/jekyll$(PORT).log
 # Exceptions will stop make
 SHELL = /bin/bash
